@@ -1,0 +1,6 @@
+{
+  "name": "Shilpa-Kala",
+  "description": "A Digital Portfolio Assistant for artisans to capture professional product photography with guided overlays and brand labels.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
