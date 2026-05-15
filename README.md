@@ -10,7 +10,7 @@
    `npm run dev`
    
 ## Screenshots
-[![alt text](image-1.png)[alt text](image.png)![![alt text](image-3.png)](image-2.png)]
+[[![alt text](image-3.png)][![alt_text](image-2.png)]]
 
 ## Tech Stack
 - Kotlin + Jetpack Compose
