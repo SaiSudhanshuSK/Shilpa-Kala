@@ -10,7 +10,7 @@
    `npm run dev`
    
 ## Screenshots
-[[![alt text](image-3.png)][![alt_text](image-2.png)]]
+![alt text](image-3.png)]![alt_text](image-2.png)
 
 ## Tech Stack
 - Kotlin + Jetpack Compose
@@ -20,7 +20,7 @@
 - Navigation Compose
 
 ## Installation & Run
-1. Clone the repo: `git clone <your-repo-url>`
+1. Clone the repo: `git clone <https://github.com/SaiSudhanshuSK/Shilpa-Kala.git>`
 2. Open in Android Studio Hedgehog or newer
 3. Let Gradle sync complete
 4. Connect an Android device (API 24+) or start an emulator
