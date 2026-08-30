@@ -30,3 +30,6 @@
 - CAMERA
 - READ_MEDIA_IMAGES (Android 13+)
 - WRITE_EXTERNAL_STORAGE (Android < 9)
+
+## License
+Copyright (c) [2026] [Sai Sudhanshu SK]. All rights reserved.
